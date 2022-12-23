@@ -100,7 +100,7 @@ body {
 }
 /*//!Ministries hero*/
 .item1 {
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)),
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)),
     url(/images/aaron-burden-1zR3WNSTnvY-unsplash\(1\).jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -127,7 +127,7 @@ body {
   align-items: center;
   justify-content: center;
   max-width: 1600px;
-  background: rgba(10, 62, 93, 0.7);
+  background: rgba(10, 62, 93, 0.8);
   border-radius: 1rem;
 }
 
@@ -161,11 +161,11 @@ body {
   align-items: center;
   justify-content: center;
   max-width: 1600px;
-  background: rgba(16, 81, 119, 0.7);
+  background: rgba(16, 81, 119, 0.8);
   border-radius: 1rem;
 }
 .item3 {
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)),
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)),
     url(/images/Screenshot\ 2022-12-20\ at\ 11.49\ 1.png);
   background-size: cover;
   background-repeat: no-repeat;
@@ -195,11 +195,11 @@ body {
   align-items: center;
   justify-content: center;
   max-width: 1600px;
-  background: rgba(10, 62, 93, 0.7);
+  background: rgba(10, 62, 93, 0.8);
   border-radius: 1rem;
 }
 .item4 {
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)),
     url(/images//MacBook\ Pro\ 14_\ -\ 1.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -229,7 +229,7 @@ body {
   align-items: center;
   justify-content: center;
   max-width: 1600px;
-  background: rgba(10, 62, 93, 0.7);
+  background: rgba(10, 62, 93, 0.8);
   border-radius: 1rem;
 }
 
@@ -290,13 +290,14 @@ footer {
   width: 30%;
   margin: auto;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   min-height: 10vh;
 }
 .footer-text {
   color: white;
   font-size: 0.5rem;
 }
+
 
 footer a {
   color: white;
@@ -307,6 +308,5 @@ footer ul {
   list-style: none;
   flex-direction: row;
   justify-content: center;
-  max-width: 3rem;
-  gap: 1rem;
+  gap: 2rem;
 }
