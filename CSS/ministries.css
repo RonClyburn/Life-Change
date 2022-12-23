@@ -4,7 +4,7 @@
 }
 html {
   scroll-behavior: smooth;
-  transition: all ease 0.3s;
+
 }
 * {
   box-sizing: border-box;
@@ -95,6 +95,7 @@ body {
     cursor: pointer;
     top: 7px;
     right: 10px;
+
   }
 }
 /*//!Ministries hero*/
@@ -282,23 +283,20 @@ form {
 footer {
   background: rgb(4, 39, 59);
   color: white;
- 
-  
 }
 .containers {
-display: flex;
-padding: 2rem;
-width: 30%;
-margin: auto;
-align-items: center;
-justify-content: space-between;
-min-height: 10vh;
+  display: flex;
+  padding: 2rem;
+  width: 30%;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 10vh;
 }
-.footer-text{
+.footer-text {
   color: white;
   font-size: 0.5rem;
 }
-
 
 footer a {
   color: white;
@@ -307,6 +305,8 @@ footer a {
 footer ul {
   display: flex;
   list-style: none;
-  flex: 1 1 40rem;
-  justify-content: space-between;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 3rem;
+  gap: 1rem;
 }
