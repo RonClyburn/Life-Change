@@ -2,7 +2,7 @@
 
 This is a website that I designed and developed for my local church, Life Change Church. Thank you for looking!
 
-live site: https://lifechangechurch.netlify.app/
+LIVE SITE: https://lifechangechurch.netlify.app/
 
 ## Overview
 This was a fun challenge that allowed me to branch out and create a full website in which I learned numerous things about HTML and CSS. I also used this project to integrate some JavaScript elements to make the navigation menu have more functionality such as opening up or closing a mobile navigation menu when clicked.
